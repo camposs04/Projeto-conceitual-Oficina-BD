@@ -1,10 +1,3 @@
-Perfeito — vou inserir o seu diagrama no **README.md** e alinhar a nomenclatura das tabelas para bater tanto com o seu script SQL quanto com o modelo lógico que você enviou.
-
-Segue o **README.md** já com o diagrama integrado:
-
----
-
-````markdown
 # 🛠️ Sistema de Gestão de Oficina Mecânica
 
 Este projeto consiste em um banco de dados relacional para gerenciar as operações de uma oficina mecânica, incluindo **clientes**, **automóveis**, **equipes**, **mecânicos**, **ordens de serviço**, **precificação** e **pagamentos**.
@@ -116,12 +109,3 @@ O banco de dados é composto pelas seguintes tabelas:
 ## 📜 Licença
 
 Este projeto é de uso acadêmico e pode ser utilizado livremente para estudos e aprimoramentos.
-
-```
-
----
-
-Se você salvar o **arquivo do diagrama** que me enviou como `diagrama_oficina.png` na mesma pasta do README, a imagem vai aparecer direto no GitHub.  
-
-Se quiser, também posso **converter o diagrama em um script SQL ajustado** para ficar exatamente igual à estrutura visual. Isso garantiria que MER, script e README fiquem 100% alinhados. Quer que eu faça essa conversão?
-```
